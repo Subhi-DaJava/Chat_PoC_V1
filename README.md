@@ -32,6 +32,6 @@ After running the application, navigate to `http://localhost:8080` to access the
 ## User Interface
 ![chat_interface](https://github.com/user-attachments/assets/72ffd964-e16c-476b-beb5-7909ddf9b66a)
 
-===================================================================================
+==================================================================
 
 ![chat_saved_in_db](https://github.com/user-attachments/assets/a859ae15-1f75-4336-88ec-aa0993cb2d23)
